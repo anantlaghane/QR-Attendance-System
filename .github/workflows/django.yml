@@ -3,7 +3,7 @@ name: Django CI
 on: 
   push:
     branches: [main]
-  pull_requvest:
+  pull_request:
     branches: [main]
 
 jobs:
